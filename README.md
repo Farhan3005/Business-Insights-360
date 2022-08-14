@@ -25,7 +25,7 @@ Throughout the course, course instructors demonstrated what challenges and techn
 - Sql
 
 ## Background of the company
-AtliQ Hardware is a hardware manufacturer that supplies hardware such as laptops, computer accessories, and more throughout different channels such as
+AtliQ Hardware is a hardware manufacturer that supplies hardware such as laptops, computer accessories, and more throughout different channels, such as
 - Retailers
 - Direct
 - Distributors
