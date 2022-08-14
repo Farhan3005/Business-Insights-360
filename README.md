@@ -16,8 +16,8 @@ Throughout the course, course instructors demonstrated what challenges and techn
 - Creating tooltip
 - Data cleaning
 - Data modeling
-- Kanban board for task assignments 
 - Snowflake Schema
+- Kanban board for task assignments 
 - Other technical skills
 
 ## Tools that are used in this course
