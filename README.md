@@ -3,7 +3,7 @@
 
 ## Project Overview
 AtliQ Hardware has become one of the fastest growing companies in recent years. They faced many challenges in different regions such as in sales, AtliQ Hardware hired a data analytics team on this project to give them clear insights using the PowerBi tool so that the company can make data-driven decisions.
-I worked on this project by following the Codebasics PowerBi Course, Link to the course https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project.
+I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
 
 Throughout the course, course instructors demonstrated what challenges and technical issues data analysts face in real-life situations with practical solutions.
 
