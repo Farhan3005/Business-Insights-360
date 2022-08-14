@@ -40,3 +40,6 @@ The data analytics team started working on this project, stakeholders gave the t
 ## Importing data into Power Bi
 In this project, Mysql is the database that we use to import data into power bi.
 ![import.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/import.gif)
+
+## Homepage
+![homepage.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/homepage.gif)
