@@ -50,3 +50,5 @@ In this project, Mysql is the database that we use to import data into power bi.
 ## Sales View
 ![salesview1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/salesview1.gif)
 
+## Marketing View
+![Marketing_View1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/Marketing_View1.gif)
