@@ -37,5 +37,5 @@ data analytics team started working on this project, stakeholders gave task to b
 - Supply chain
 - And more
 
-## Importinng data into Power Bi
+## Importing data into Power Bi
 In this project Mysql is the database that we use to import data into power bi
