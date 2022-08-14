@@ -39,22 +39,22 @@ The data analytics team started working on this project, stakeholders gave the t
 
 ## Importing data into Power Bi
 In this project, Mysql is the database that we use to import data into power bi.
-![import.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/import.gif)
+![import%20(1).gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/import%20(1).gif)
 
 ## Homepage
-![homepage.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/homepage.gif)
+![homepage2.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/homepage2.gif)
 
 ## Finance view
-![finance1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/finance1.gif)
+![finance%20(1)](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/finance%20(1).gif)
 
 ## Sales View
-![salesview1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/salesview1.gif)
+![salesview1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/salesview1.gif)
 
 ## Marketing View
-![Marketing_View1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/Marketing_View1.gif)
+![Marketing_View1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/Marketing_View1.gif)
 
 ## Supply Chain View
-![supplychain1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/supplychain1.gif)
+![supplychain1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/supplychain1.gif)
 
 ## Executive View
-![supplychain1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/ev1.gif)
+![ev1.gif](https://github.com/Farhan3005/Business-Insights-360/blob/main/folder1/ev1.gif)
