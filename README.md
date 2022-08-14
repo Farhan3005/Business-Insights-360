@@ -17,6 +17,7 @@ Throughout the course, course instructors demonstrated what challenges and techn
 - Data cleaning
 - Data modeling
 - Kanban board for task assignments 
+- Snowflake Schema
 - Other technical skills
 
 ## Tools that are used in this course
