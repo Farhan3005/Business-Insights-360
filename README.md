@@ -25,6 +25,15 @@ Throughout the course, course instructors demonstrated what challenges and techn
 - Power Bi
 - Sql
 
+## Business related terms
+- Gross price
+- Net sales
+- Gross margin
+- (COGS) cost of goods sold
+- Pre-invoice deduction
+- Forecast Accuracy
+- And more
+
 ## Background of the company
 AtliQ Hardware is a hardware manufacturer that supplies hardware such as laptops, computer accessories, and more throughout different channels, such as
 - Retailers
