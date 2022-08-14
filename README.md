@@ -1,4 +1,4 @@
-# Business-Insights-360
+# Business_Insights_360
 
 
 ## Project Overview
